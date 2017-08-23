@@ -8,5 +8,6 @@ node.insertBefore(hint, node.firstChild);
 
 document.body.style.backgroundImage = "url(https://rawgit.com/ramastein/test/master/FDBECT.jpg)";
 document.getElementsByTagName('table')[0].cellSpacing ="12px";
+document.getElementById("breadcrumbBar").style.display = "none";
 }
 });}}
