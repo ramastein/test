@@ -6,7 +6,7 @@
 #j_username,input[type=password]{
 width:100%
 }
-table[name="login"] td{color: #FFFFFF!important;} 
+form[name="login"] td{color: #FFFFFF!important;} 
 #header{
 	background-color: #000;
 }
