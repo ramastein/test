@@ -11,7 +11,7 @@ document.getElementsByTagName('table')[0].cellSpacing ="12px";
 document.getElementById("breadcrumbBar").style.display = "none";
 document.getElementById("searchform").style.display = "none";
 document.getElementsByTagName("footer")[0].style.display="none";
-document.getElementById('main-panel').style.marginLeft = '100px';
+document.getElementById('main-panel').style.marginTop = '100px';
 var para=document.createElement("div");
 var node=document.createTextNode("Robotic Process Test Automation Tool");
 para.appendChild(node);
