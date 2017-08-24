@@ -7,3 +7,12 @@
 width:100%
 }
 td{color: #FFFFFF!important;} 
+#header{
+	background-color: #000;
+}
+#jenkins-name-icon{
+	width:174px;
+}
+#jenkins-head-icon{
+	display:none;
+}
