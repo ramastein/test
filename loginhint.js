@@ -32,7 +32,9 @@ var tbl  = document.getElementById('projectstatus');
 
     for (var row=1; row<rows.length;row++) {
       var cels = rows[row].getElementsByTagName('td');
+	  if(cels!-undefined && cels[1]!=undefined){
       cels[1].style.display='none';
+	  }
     }
 }
 
