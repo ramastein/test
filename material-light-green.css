@@ -6,13 +6,14 @@
 #j_username,input[type=password]{
 width:100%
 }
-td{color: #FFFFFF!important;} 
+table[name="login"] td{color: #FFFFFF!important;} 
 #header{
 	background-color: #000;
 }
 #jenkins-name-icon{
 	width:174px;
 }
-#jenkins-head-icon{
-	display:none;
+#jenkins-head-icon,#breadcrumbBar{
+	display:none;	
 }
+	
