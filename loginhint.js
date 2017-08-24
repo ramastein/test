@@ -36,6 +36,9 @@ var tbl  = document.getElementById('projectstatus');
       cels[1].style.display='none';
 	  }
     }
+	
+	
+document.getElementById("projectstatus").getElementsByTagName("a")[0].firstChild.nodeValue="Status";
 }
 
 });}}
