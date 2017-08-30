@@ -12,4 +12,6 @@ form[name="login"] td{color: #FFFFFF!important;}
 #jenkins-head-icon,#breadcrumbBar{
 	display:none;	
 }
-	
+.task-icon-link[href="/"]{
+	background-color: #000000 !important;
+	}
