@@ -37,7 +37,8 @@ var tbl  = document.getElementById('projectstatus');
 	  }
     }
 	
-	
+
+document.getElementsByTagName("footer")[0].style.display="none";	
 document.getElementById("projectstatus").getElementsByTagName("a")[0].firstChild.nodeValue="Status";
 }
 
