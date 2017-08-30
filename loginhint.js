@@ -21,6 +21,8 @@ document.getElementById("jenkins-home-link").appendChild(para);
 
 }
 if(window.location.href.endsWith('/') || window.location.href.indexOf("?auto_refresh=true") !== -1){
+	
+document.body.style.backgroundImage = "url(https://rawgit.com/ramastein/test/master/FDBECT.jpg)";
 document.querySelectorAll('[href="/legend"]')[0].parentElement.style.display="none";
 document.getElementsByClassName("task-link")[0].innerHTML="New Project";
 document.getElementsByClassName("task-link")[3].innerHTML="Settings";

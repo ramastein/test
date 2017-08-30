@@ -15,3 +15,10 @@ form[name="login"] td{color: #FFFFFF!important;}
 .task-icon-link[href="/"]{
 	background-color: #000000 !important;
 	}
+#side-panel .task-link{
+	color: #FFF;
+}
+table.stripped-odd tr:nth-child(even){
+background: #fbfbfb;
+}
+table.pane tr:nth-child(even) td{background-color:#fff}
