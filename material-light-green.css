@@ -25,3 +25,6 @@ table.pane tr:nth-child(even) td{background-color:#fff}
 .tabBar .tab a.addTab{
 	color:#FFF;
 }
+#main-panel h1{
+	color: #FFF;
+}
