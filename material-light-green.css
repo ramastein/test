@@ -22,3 +22,6 @@ table.stripped-odd tr:nth-child(even){
 background: #fbfbfb;
 }
 table.pane tr:nth-child(even) td{background-color:#fff}
+.tabBar .tab a.addTab{
+	color:#FFF;
+}
